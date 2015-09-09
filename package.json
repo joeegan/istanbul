@@ -86,7 +86,7 @@
   },
   "dependencies": {
     "esprima": "2.4.x",
-    "escodegen": "git://github.com/joeegan/escodegen.git#import-export-extras",
+    "escodegen": "1.7.0",
     "handlebars": "3.0.0",
     "mkdirp": "0.5.x",
     "nopt": "3.x",
